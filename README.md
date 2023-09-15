@@ -4,4 +4,4 @@ This project was written for my CS3610 Data Structures class in Fall of 2022. Th
 
 The only file I modified was index-tree.h and indexing.cc. Other files were provided by Nasseef Abukamail (professor at Ohio University).
 
-Project can be compiled with `make` and run with `./a.out` (this will open a menu to search through words in the Alan-Turing.txt file).
+Project can be compiled with `make` and run with `./a.out` (this will open a menu to search through words in the `Alan-Turing.txt`  file).
